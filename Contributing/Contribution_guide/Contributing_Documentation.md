@@ -8,7 +8,9 @@ We would greatly appreciate your help in developing this body of knowledge to ed
 
 ## Contributing improvements and new content
 
-In order to contribute to this project fork this repository and make changes you think are helpful. When you are finished with your work, you can submit a pull reqeust to notify the project editors that you have proposed new changes or improvements to the current documentation. The project editors will then either suggest changes to improve the pull request or they may accept the pull request as written and pull in your changes into the hpc-syspros-basic repo.
+The source to HPC Basics is hosted at [https://github.com/hpc-syspros-basics/hpc-syspros-basics.github.io](https://github.com/hpc-syspros-basics/hpc-syspros-basics.github.io).
+
+In order to contribute to this project, [fork this repository](https://github.com/hpc-syspros-basics/hpc-syspros-basics.github.io) and make changes you think are helpful. When you are finished with your work, you can [submit a pull request](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) to notify the project editors that you have proposed new changes or improvements to the current documentation. The project editors will then either suggest changes to improve the pull request or they may accept the pull request as written and pull in your changes into the hpc-syspros-basic repo.
 
 All those who submit pull requests that are accepted into the hpc-syspros-basic repo will be recognized in our contributing authors section, and you may be asked to evaluate any further changes to the topics that you have in the past contributed to.
 
